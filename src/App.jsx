@@ -1,7 +1,9 @@
+import Header from "./components/Header/Header";
+
 function App() {
   return (
     <>
-      <h1 className="underline text-red-500">Hello</h1>
+      <Header />
     </>
   );
 }
